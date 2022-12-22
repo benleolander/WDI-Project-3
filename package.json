@@ -42,7 +42,7 @@
     "express": "^4.16.4",
     "filestack-js": "^1.14.1",
     "filestack-react": "^2.0.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.4.10",
     "mongoose-unique-validator": "^2.0.2",
     "node-sass": "^4.11.0",
